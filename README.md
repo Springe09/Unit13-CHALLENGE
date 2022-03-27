@@ -13,5 +13,8 @@ In this homework assignment, you will put your new unsupervivsed learning and Am
 
 #### Visualizing Results
 
+Find the Best Value for k Using the Elbow Curve
+![ElbowCurve](Images/bokeh_plot(1).png)
+
 
 
