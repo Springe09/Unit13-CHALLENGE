@@ -11,7 +11,18 @@ In this homework assignment, you will put your new unsupervivsed learning and Am
 #### Visualizing Results
 
 Find the Best Value for k Using the Elbow Curve
+
+In the below elbow chart, the bend occurs at 4, meaning this is the optimal value for k for this example:
 ![ElbowCurve](https://github.com/Springe09/Unit13-CHALLENGE/blob/main/images/ElbowCurve.png)
+
+Clustered data depicting the contrast between the number of available coins versus the total number of mined coins. Use the hover_cols=["CoinName"] parameter to include the cryptocurrency name on each data point.
+
+
+
+Current tradable cryptocurrencies. 
+![TableofCryptocurrencies](https://github.com/Springe09/Unit13-CHALLENGE/blob/main/images/TableofCryptocurrencies.PNG)
+
+
 
 
 
